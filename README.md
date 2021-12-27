@@ -23,6 +23,7 @@ https://github.com/kautukkundan/Awesome-Profile-README-templates
 
 Icons:
 https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://simpleicons.org/
 -->
 
 
