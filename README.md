@@ -1,5 +1,7 @@
 ## Welcome to Rildo Demarqui's GitHub Profile
-Hello! I'm Rildo Demarqui. An electrical engineer from Brazil interested in python, machine learning, cloud, data visualization, and finance.
+
+Hello! I'm Rildo Demarqui. An electrical engineer from Brazil interested in python, machine learning, cloud, data visualization, and finance. You'll find some of that here.
+
 
 #### Where to find me:
 <a href="https://www.linkedin.com/in/rildo-demarqui/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
