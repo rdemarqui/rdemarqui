@@ -2,6 +2,9 @@
 
 Hello! I'm Rildo Demarqui. An electrical engineer from Brazil interested in python, machine learning, cloud, data visualization, and finance. You'll find a bit of that [here](https://github.com/rdemarqui?tab=repositories).
 
+<!---
+If you are interested in my portfolio, please take a look: 
+-->
 
 #### Where to find me:
 <a href="https://www.linkedin.com/in/rildo-demarqui/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -11,6 +14,16 @@ Hello! I'm Rildo Demarqui. An electrical engineer from Brazil interested in pyth
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=rdemarqui&amp;show_icons=true" alt="GitHub Stats"></p>
+
+
+<!---
+Some good sources:
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+https://github.com/kautukkundan/Awesome-Profile-README-templates
+
+Icons:
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+-->
 
 
 
