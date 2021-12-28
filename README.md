@@ -3,7 +3,7 @@
 Hello! I'm Rildo Demarqui. An electrical engineer from Brazil interested in python, machine learning, cloud, data visualization, and finance. You'll find a bit of that [here](https://github.com/rdemarqui?tab=repositories).
 
 <!---
-If you are interested in my portfolio, please take a look: 
+...Or if you prefer to see my portfolio, take a look on: [https://rdemarqui.github.io/portfolio/](https://rdemarqui.github.io/portfolio/)
 -->
 
 #### Where to find me:
