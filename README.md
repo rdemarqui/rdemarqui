@@ -5,7 +5,7 @@ Hello! I'm Rildo Demarqui. An electrical engineer from Brazil interested in pyth
 <!---
 ...Or if you prefer to see my portfolio, take a look on: [https://rdemarqui.github.io/portfolio/](https://rdemarqui.github.io/portfolio/)
 
-#### 
+#### Language and Tools
 jupyter, python, pandas, numpy, matplotlib, sklearn, Keras/Tensorflow, Power BI, SQL, Excel & VBA.
 
 -->
