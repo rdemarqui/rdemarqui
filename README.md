@@ -4,12 +4,18 @@ Hello! I'm Rildo Demarqui. An electrical engineer from Brazil interested in pyth
 
 <!---
 ...Or if you prefer to see my portfolio, take a look on: [https://rdemarqui.github.io/portfolio/](https://rdemarqui.github.io/portfolio/)
-
-#### Language and Tools
 jupyter, python, pandas, numpy, matplotlib, sklearn, Keras/Tensorflow, Power BI, SQL, Excel & VBA.
 
 -->
+##
+#### Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
+
+##
 #### Connect with me:
 <a href="https://www.linkedin.com/in/rildo-demarqui/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/rildodemarqui"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
