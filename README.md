@@ -8,12 +8,12 @@ jupyter, python, pandas, numpy, matplotlib, sklearn, Keras/Tensorflow, Power BI,
 
 -->
 ##
-#### Skills & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
+#### Skills
+* Programming: `Python`
+* Data processing/wrangling: `SQL`, `pandas`, `numpy`, `Excel/VBA`
+* Data visualization: `Power BI`, `matplotlib`, `seaborn`, `plotly`
+* Machine Learning: `scikit-learn`
+* Deep Learning: `Keras | TensorFlow`
 
 ##
 #### Connect with me:
