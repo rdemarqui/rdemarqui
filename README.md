@@ -13,7 +13,7 @@ jupyter, python, pandas, numpy, matplotlib, sklearn, Keras/Tensorflow, Power BI,
 * Data processing/wrangling: `SQL`, `pandas`, `numpy`, `Excel/VBA`
 * Data visualization: `Power BI`, `matplotlib`, `seaborn`, `plotly`
 * Machine Learning: `scikit-learn`
-* Deep Learning: `Keras | TensorFlow`
+* Deep Learning: `Keras/TensorFlow`
 
 ##
 #### Connect with me:
