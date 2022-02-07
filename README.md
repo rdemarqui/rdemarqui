@@ -8,12 +8,18 @@ jupyter, python, pandas, numpy, matplotlib, sklearn, Keras/Tensorflow, Power BI,
 
 -->
 ##
-#### Skills
+### Skills
 * Programming: `Python`
 * Data processing/wrangling: `SQL`, `pandas`, `numpy`, `Excel/VBA`
 * Data visualization: `Power BI`, `matplotlib`, `seaborn`, `plotly`
-* Machine Learning: `scikit-learn`
+* Machine Learning: `scikit-learn`<!--- xgboost -->
 * Deep Learning: `Keras/TensorFlow`
+<!---
+* Web development: `Flask`
+* Model deployment: `Heroku` , AWS`
+-->
+
+
 
 ##
 #### Connect with me:
