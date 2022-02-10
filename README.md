@@ -18,6 +18,7 @@ Hello! I'm Rildo Demarqui. An electrical engineer from Brazil interested in pyth
 ### Portfolio
 I've recently started working on my portfolio, which can be seen on: https://rdemarqui.github.io/
 
+<br>
 
 #### Connect with me:
 <a href="https://www.linkedin.com/in/rildo-demarqui/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
