@@ -1,6 +1,7 @@
 ## Welcome to Rildo Demarqui's GitHub Profile
 
-Hello! I'm Rildo Demarqui. An electrical engineer from Brazil interested in python, machine learning, cloud, data visualization, and finance. You'll find a bit of that [here](https://github.com/rdemarqui?tab=repositories).
+Hello! I'm Rildo Demarqui. An electrical engineer from Brazil interested in python, machine learning, cloud, data visualization, and finance.
+
 
 ### Skills
 * Programming: `Python`
@@ -12,6 +13,7 @@ Hello! I'm Rildo Demarqui. An electrical engineer from Brazil interested in pyth
 * Web development: `Flask`
 * Model deployment: `Heroku` , AWS`
 -->
+
 
 ### Portfolio
 I've recently started working on my portfolio, which can be seen on: https://rdemarqui.github.io/
@@ -29,13 +31,9 @@ I've recently started working on my portfolio, which can be seen on: https://rde
 
 
 <!---
-Some good sources:
+Some good readme sources:
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 https://github.com/kautukkundan/Awesome-Profile-README-templates
-
-Icons:
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-https://simpleicons.org/
 -->
 
 
