@@ -2,12 +2,6 @@
 
 Hello! I'm Rildo Demarqui. An electrical engineer from Brazil interested in python, machine learning, cloud, data visualization, and finance. You'll find a bit of that [here](https://github.com/rdemarqui?tab=repositories).
 
-<!---
-...Or if you prefer to see my portfolio, take a look on: [https://rdemarqui.github.io/portfolio/](https://rdemarqui.github.io/portfolio/)
-jupyter, python, pandas, numpy, matplotlib, sklearn, Keras/Tensorflow, Power BI, SQL, Excel & VBA.
-
--->
-
 ### Skills
 * Programming: `Python`
 * Data processing/wrangling: `SQL`, `pandas`, `numpy`, `Excel/VBA`
@@ -19,7 +13,8 @@ jupyter, python, pandas, numpy, matplotlib, sklearn, Keras/Tensorflow, Power BI,
 * Model deployment: `Heroku` , AWS`
 -->
 
-
+### Portfolio
+I've recently started working on my portfolio, which can be seen on: https://rdemarqui.github.io/
 
 
 #### Connect with me:
