@@ -29,7 +29,7 @@ jupyter, python, pandas, numpy, matplotlib, sklearn, Keras/Tensorflow, Power BI,
 <a href="https://medium.com/@rdemarqui"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
 
-
+##
 <p><img src="https://github-readme-stats.vercel.app/api?username=rdemarqui&amp;show_icons=true" alt="GitHub Stats"></p>
 
 
