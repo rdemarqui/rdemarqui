@@ -7,7 +7,7 @@ Hello! I'm Rildo Demarqui, an electrical engineer from Brazil interested in pyth
 * Programming: `Python`
 * Data processing/wrangling: `SQL`, `pandas`, `numpy`, `Excel/VBA`
 * Data visualization: `Power BI`, `matplotlib`, `seaborn`, `plotly`
-* Machine Learning: `scikit-learn`, `xgboost`, 'lightgbm'
+* Machine Learning: `scikit-learn`, `xgboost`, `lightgbm`
 * Deep Learning: `Keras/TensorFlow`
 * Cloud: `BigQuery(GCP)`
 <!---
