@@ -5,6 +5,7 @@ Hello! I'm Rildo Demarqui, an electrical engineer from Brazil interested in pyth
 
 ### Skills
 * Programming: `Python`
+* Web scraping: `Selenium`, `Beautiful Soup`
 * Data processing/wrangling: `SQL`, `pandas`, `numpy`, `Excel/VBA`
 * Data visualization: `Power BI`, `matplotlib`, `seaborn`, `plotly`
 * Machine Learning: `scikit-learn`, `xgboost`, `lightgbm`
