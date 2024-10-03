@@ -3,7 +3,7 @@
 Hello! I'm Rildo Demarqui, an electrical engineer from Brazil interested in python🐍, machine learning🤖, cloud☁️, data visualization📊, finance💰, books📚 and games🕹️.
 
 
-### Skills
+### Some Skills
 * Programming: `Python`
 * Web scraping: `Selenium`, `Beautiful Soup`
 * Data processing/wrangling: `SQL`, `pandas`, `numpy`, `Excel/VBA`
