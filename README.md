@@ -26,10 +26,21 @@ To know more about my skills, please visit my portfolio on https://rdemarqui.git
 <br>
 
 #### Connect with me:
-<a href="https://www.linkedin.com/in/rildo-demarqui/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/rildodemarqui"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://medium.com/@rdemarqui"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
-<!--- <a href="https://www.kaggle.com/rildodemarqui"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rildo-demarqui/" target="_blank">
+    <img src="images/linkedin.png" class="center" width="12%" />
+  </a>
+  <a href="https://github.com/rdemarqui" target="_blank">
+    <img src="images/github.png" class="center" width="12%" />
+  </a>
+  <a href="https://medium.com/@rdemarqui" target="_blank">
+    <img src="images/medium.png" class="center" width="12%" />
+  </a>
+  <a href="https://twitter.com/rildodemarqui" target="_blank">
+    <img src="images/twitter.png" class="center" width="12%" />
+  </a>
+</p>
 
 ##
 <p><img src="https://github-readme-stats.vercel.app/api?username=rdemarqui&amp;show_icons=true" alt="GitHub Stats"></p>
