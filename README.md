@@ -19,24 +19,11 @@ To know more about my skills, please visit my portfolio on https://rdemarqui.git
 
 #### Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/rildo-demarqui/" target="_blank">
-    <img src="images/linkedin.png" width="3%" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/rdemarqui" target="_blank">
-    <img src="images/github.png" width="3%" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@rdemarqui" target="_blank">
-    <img src="images/medium.png" width="3%" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/rildodemarqui" target="_blank">
-    <img src="images/twitter.png" width="3%" />
-  </a>
+  <a href="https://www.linkedin.com/in/rildo-demarqui/"><img src="images/linkedin.png" width="3%" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rdemarqui"><img src="images/github.png" width="3%" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@rdemarqui"><img src="images/medium.png" width="3%" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/rildodemarqui"><img src="images/twitter.png" width="3%" /></a>
 </p>
-
-
-
-
-
 
 
 ##
