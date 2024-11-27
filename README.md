@@ -2,7 +2,6 @@
 
 Hello! I'm Rildo Demarqui, an electrical engineer from Brazil interested in python🐍, machine learning🤖, cloud☁️, data visualization📊, finance💰, books📚 and games🕹️.
 
-
 ### Some Skills
 * Programming: `Python`
 * Web scraping: `Selenium`, `Beautiful Soup`
@@ -14,33 +13,31 @@ Hello! I'm Rildo Demarqui, an electrical engineer from Brazil interested in pyth
 * Explainable AI: `SHAP`
 * Cloud: `BigQuery(GCP)`, `Vertex AI`
 * Model deployment: `gradio`
-<!---
-* Web development: `Flask`
-* Model deployment: `Heroku` , AWS`
--->
-
 
 ### Portfolio
 To know more about my skills, please visit my portfolio on https://rdemarqui.github.io/
 
-<br>
-
 #### Connect with me:
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/rildo-demarqui/" target="_blank">
-    <img src="images/linkedin.png" class="center" width="12%" />
-  </a>
+    <img src="images/linkedin.png" width="3%" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/rdemarqui" target="_blank">
-    <img src="images/github.png" class="center" width="12%" />
-  </a>
+    <img src="images/github.png" width="3%" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@rdemarqui" target="_blank">
-    <img src="images/medium.png" class="center" width="12%" />
-  </a>
+    <img src="images/medium.png" width="3%" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/rildodemarqui" target="_blank">
-    <img src="images/twitter.png" class="center" width="12%" />
+    <img src="images/twitter.png" width="3%" />
   </a>
 </p>
+
+
+
+
+
+
 
 ##
 <p><img src="https://github-readme-stats.vercel.app/api?username=rdemarqui&amp;show_icons=true" alt="GitHub Stats"></p>
