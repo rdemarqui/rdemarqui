@@ -27,11 +27,6 @@ To know more about my skills, please visit my portfolio on https://rdemarqui.git
     <img src="images/twitter.png" width="3%" /></a>
 </p>
 
-
-##
-<p><img src="https://github-readme-stats.vercel.app/api?username=rdemarqui&amp;show_icons=true" alt="GitHub Stats"></p>
-
-
 <!---
 Some good readme sources:
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
